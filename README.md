@@ -1,4 +1,5 @@
 Hi, I'm Somisettilikhitha! 👋
+
 Aspiring Software Engineer | Python Backend Development | AI & Data Science
 I'm a Computer Science graduate specializing in Artificial Intelligence and Data Science, passionate about developing software applications, building backend systems, and exploring intelligent AI-driven solutions.
 
